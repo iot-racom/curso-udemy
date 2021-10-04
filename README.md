@@ -6,6 +6,7 @@
 ## How to use example
 
 Solamente ejecuralo
+D:\Cursos\Udemy\Cursos\Curso_Git\GITHUB\Prueba 2 usuarios\racom_station\curso-udemy
 
 ### Configure the project
 
